@@ -1,1 +1,2 @@
 boss,sgao263,Shichen,Gao
+role,NetID,LastName,FirstNameboss,sgao263,Shichen,Gao
